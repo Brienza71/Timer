@@ -1,0 +1,16 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+#cont {
+    margin: 10px;
+}
+
+.btn {
+    margin: 3px;
+}
